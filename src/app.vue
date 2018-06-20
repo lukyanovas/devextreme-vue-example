@@ -1,16 +1,16 @@
 <template>
   <div id="app">
-    <DataGrid/>
+    <Example/>
   </div>
 </template>
 
 <script>
-import DataGrid from "./components/data-grid";
+import Example from "./components/example";
 
 export default {
   name: "App",
   components: {
-    DataGrid
+    Example
   }
 };
 </script>
