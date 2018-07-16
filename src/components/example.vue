@@ -4,7 +4,7 @@
       :allowColumnReordering="true"
       :dataSource="sales"
       :selectedRowKeys="selectedKeys"
-			>
+		>
       <dx-filter-row :visible="true" />
       <dx-group-panel :visible="true" />
       <dx-grouping :autoExpandAll="true" />
