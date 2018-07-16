@@ -10,6 +10,7 @@
       <dx-grouping :autoExpandAll="true" />
       <dx-paging :pageSize="10" />
       <dx-selection mode="multiple" />
+      
       <dx-column 
         dataField="orderId" 
         caption="Order ID"
