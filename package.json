@@ -14,8 +14,8 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "devextreme": "18.2-unstable",
-    "devextreme-vue": "18.2-unstable",
+    "devextreme": "18.2-stable",
+    "devextreme-vue": "18.2-stable",
     "vue": "^2.5.2"
   },
   "devDependencies": {
